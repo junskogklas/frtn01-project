@@ -28,3 +28,5 @@ If the bluetooth port of the HC06 isn't recognized by the Java-code try the foll
 - Navigate to bluetooth connection and connect to HC06
 - Let it connect and copy mac-address
 - Open a terminal and paste "sudo rfcomm bind hci6 "mac-adress"
+ 
+Follow the above instructions and the HC06 should be detected by the Java-code
